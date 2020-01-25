@@ -1,0 +1,9 @@
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\bin\Debug\StandardDeviation.exe.config
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\bin\Debug\StandardDeviation.exe
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\bin\Debug\StandardDeviation.pdb
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\bin\Debug\LumenWorks.Framework.IO.dll
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\bin\Debug\LumenWorks.Framework.IO.xml
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\obj\Debug\StandardDeviation.csprojResolveAssemblyReference.cache
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\obj\Debug\StandardDeviation.exe
+D:\Personal\Study_Projectesetc\StandardDeviation\StandardDeviation\obj\Debug\StandardDeviation.pdb
